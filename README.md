@@ -20,9 +20,9 @@ Bu projede 2019 Dünya Mutluluk Raporu verisi kullanılarak mutluluk skorunu etk
 
 | Model                     | R² Skoru | MSE   | MAE   |
 |----------------------------|----------|-------|-------|
-| 2. Derece Polinomsal Model | ...      | ...   | ...   |
-| 3. Derece Polinomsal Model | ...      | ...   | ...   |
-| Lineer Model               | ...      | ...   | ...   |
+| 2. Derece Polinomsal Model | 0.6551588159503554      | 0.3588842809031423   | 0.44647699837668686   |
+| 3. Derece Polinomsal Model | 0.3436397549522613      | 0.6830894494419099   | 0.592618896484375   |
+| Lineer Model               | 0.6056836483464102      | 0.4103742443106109   | 0.4958602742165801   |
 
 *(Değerler notebook çıktısından alınabilir.)*
 
